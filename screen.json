@@ -3,8 +3,7 @@
     "alignment": "center",
     "decoration":{
         "image": {
-            "src": "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
-            "fit": "fill"
+            "src": "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif"
         },
         "borderRadius":{
             "topLeft": 10,
@@ -12,5 +11,9 @@
             "bottomLeft": 10,
             "bottomRight": 10
         }
+    },
+    "child":{
+        "type": "text",
+        "data": "hello"
     }
 }
