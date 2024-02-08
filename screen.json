@@ -2,9 +2,16 @@
     "type": "container",
     "alignment": "center",
     "child": {
-        "type": "image",
-        "src": "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
-        "imageType": "network",
-        "height": 150
+        "type": "cliprrect",
+        "borderRadius": {
+            "type": "circular",
+            "radius": "10"
+        },
+        "child": {
+            "type": "image",
+            "src": "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
+            "imageType": "network",
+            "height": 150
+        }
     }
 }
