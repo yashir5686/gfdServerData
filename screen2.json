@@ -1,10 +1,16 @@
 {
     "type": "container",
     "alignment": "center",
-    "child": {
-        "type": "image",
-        "src": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*REfymSeaw6g2x_SpFS9GoA.png",
-        "imageType": "network",
-        "height": 150
+    "decoration":{
+        "image": {
+            "src": "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
+            "fit": "fill"
+        },
+        "borderRadius":{
+            "topLeft": 10,
+            "topRight": 10,
+            "bottomLeft": 10,
+            "bottomRight": 10
+        }
     }
 }
