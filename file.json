@@ -10,8 +10,8 @@
         "alignment": "center",
         "child" : {
           "type": "image",
-          "src": "assets/mirai_banner.png",
-          "imageType": "asset",
+          "src": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*REfymSeaw6g2x_SpFS9GoA.png",
+          "imageType": "network",
           "height": 150
         }
       },
