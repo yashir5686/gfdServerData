@@ -1,50 +1,10 @@
 {
-  "type": "scaffold",
-  "body": {
-    "type": "column",
-    "mainAxisAlignment": "spaceAround",
-    "crossAxisAlignment": "center",
-    "children": [
-      {
-        "type": "container",
-        "alignment": "center",
-        "child" : {
-          "type": "image",
-          "src": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*REfymSeaw6g2x_SpFS9GoA.png",
-          "imageType": "network",
-          "height": 150
-        }
-      },
-
-      {
-        "type": "column",
-        "crossAxisAlignment": "center",
-        "children":[
-          {
-            "type": "container",
-            "alignment": "center",
-            "child" : {
-              "type": "text",
-              "data": "Mohamed Abdo",
-              "style": {
-                "fontSize": 25
-              }
-            }
-          },
-          {
-            "type": "container",
-            "alignment": "center",
-            "child" : {
-              "type": "text",
-              "data": "Flutter Developer",
-              "style": {
-                "color": "#00a2f9",
-                "fontSize": 20
-              }
-            }
-          }
-        ]
-      }
-    ]
-  }
+    "type": "container",
+    "alignment": "center",
+    "child": {
+        "type": "image",
+        "src": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*REfymSeaw6g2x_SpFS9GoA.png",
+        "imageType": "network",
+        "height": 150
+    }
 }
