@@ -1,6 +1,7 @@
 {
     "type": "container",
     "alignment": "center",
+    "height": 150,
     "decoration":{
         "image": {
             "src": "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif"
@@ -14,6 +15,6 @@
     },
     "child":{
         "type": "text",
-        "data": "hello"
+        "data": "."
     }
 }
