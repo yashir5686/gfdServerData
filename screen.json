@@ -20,30 +20,6 @@
                 "type": "text",
                 "data": "."
             }
-        },
-        {
-            "type": "sizedBox",
-            "height": 24
-        },
-        {
-            "type": "container",
-            "alignment": "center",
-            "height": 150,
-            "decoration": {
-                "image": {
-                    "src": "https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif"
-                },
-                "borderRadius": {
-                    "topLeft": 10,
-                    "topRight": 10,
-                    "bottomLeft": 10,
-                    "bottomRight": 10
-                }
-            },
-            "child": {
-                "type": "text",
-                "data": "."
-            }
         }
     ]
 }
