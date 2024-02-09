@@ -4,13 +4,11 @@
         {
             "type": "container",
             "alignment": "center",
-            "decoration": {
-                "borderRadius": {
-                    "topLeft": 10,
-                    "topRight": 10,
-                    "bottomLeft": 10,
-                    "bottomRight": 10
-                }
+            "margin": {
+                "left": 20,
+                "right": 20,
+                "top": 20,
+                "bottom": 20
             },
             "clipBehavior": "antiAlias",
             "child": {
