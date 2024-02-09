@@ -1,21 +1,4 @@
 {
-    "type": "column",
-    "children": [
-        {
-            "type": "container",
-            "alignment": "center",
-            "margin": {
-                "left": 20,
-                "right": 20,
-                "top": 20,
-                "bottom": 20
-            },
-            "clipBehavior": "antiAlias",
-            "child": {
-                "type": "image",
-                "src": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-500.gif",
-                "fit": "cover"
-            }
-        }
-    ]
+    "type": "sizedbox",
+    "height": 10
 }
