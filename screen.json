@@ -5,6 +5,7 @@
     "decoration":{
         "image": {
             "src": "https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif"
+            "fit": "fill"
         },
         "borderRadius":{
             "topLeft": 10,
