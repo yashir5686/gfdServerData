@@ -4,9 +4,25 @@
         {
             "type": "container",
             "alignment": "center",
+            "margin": {
+                "left": 20,
+                "right": 20,
+                "top": 20,
+                "bottom": 20
+            },
+            "decoration": {
+                "borderRadius": {
+                    "topLeft": 10,
+                    "topRight": 10,
+                    "bottomLeft": 10,
+                    "bottomRight": 10
+                }
+            },
+            "clipBehavior": "antiAlias",
             "child": {
                 "type": "image",
-                "src": "https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif"
+                "src": "https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif",
+                "fit": "cover"
             }
         }
     ]
