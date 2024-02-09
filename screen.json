@@ -13,7 +13,7 @@
             "clipBehavior": "antiAlias",
             "child": {
                 "type": "image",
-                "src": "https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif",
+                "src": "https://i.giphy.com/ixXXEzbqWWKWof19oZ.webp",
                 "fit": "cover"
             }
         }
