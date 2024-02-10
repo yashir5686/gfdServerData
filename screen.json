@@ -1,4 +1,21 @@
 {
-    "type": "sizedBox",
-    "height": 5
+    "type": "column",
+    "children": [
+        {
+            "type": "container",
+            "alignment": "center",
+            "margin": {
+                "left": 20,
+                "right": 20,
+                "top": 20,
+                "bottom": 20
+            },
+            "clipBehavior": "antiAlias",
+            "child": {
+                "type": "image",
+                "src": "https://firebasestorage.googleapis.com/v0/b/ghori-fashion-designer-a-44afa.appspot.com/o/50_%20OFFOnlyForThisMonth.gif?alt=media&token=ba2cc57b-ab24-4448-a118-91e6b802e6f2",
+                "fit": "cover"
+            }
+        }
+    ]
 }
