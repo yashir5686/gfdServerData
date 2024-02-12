@@ -13,7 +13,7 @@
             "clipBehavior": "antiAlias",
             "child": {
                 "type": "image",
-                "src": "https://firebasestorage.googleapis.com/v0/b/ghori-fashion-designer-a-44afa.appspot.com/o/50_%20OFFOnlyForThisMonth.gif?alt=media&token=ba2cc57b-ab24-4448-a118-91e6b802e6f2",
+                "src": "https://cloud.appwrite.io/v1/storage/buckets/65c227c32dc94ab4ce1e/files/65ca19cd1b9b76382564/view?project=6586c742c6ce5c2a8e23&mode=admin",
                 "fit": "cover"
             }
         }
