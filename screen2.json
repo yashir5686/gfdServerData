@@ -1,7 +1,6 @@
 {
     "type": "listView",
     "shrinkWrap": true,
-    "scrollDirection": "horizontal",
     "separator": {
       "type": "container",
       "height": 10
