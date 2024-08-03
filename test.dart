@@ -1,12 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:ghori_fashion/Data/constents/constents.dart';
-
-class Loadingpage extends StatelessWidget {
-  const Loadingpage({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return SafeArea(
+SafeArea(
       child: Scaffold(
         backgroundColor: Colors.white,
         body: Center(
@@ -29,5 +21,3 @@ class Loadingpage extends StatelessWidget {
         ),
       ),
     );
-  }
-}
