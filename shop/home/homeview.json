@@ -1,0 +1,56 @@
+{
+  "type": "singlechildscrollview",
+  "padding": {
+    "type": "symmetric",
+    "data": {
+      "vertical": "16",
+      "horizontal": "0"
+    }
+  },
+  "child": {
+    "type": "column",
+    "children": [
+      {
+        "type": "padding",
+        "child": {
+          "type": "featuredimageslist",
+          "child": [
+            {
+              "type": "featuredimage",
+              "url": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
+              "productid": "GFD365SJ1G4"
+            },
+            {
+              "type": "featuredimage",
+              "url": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
+              "productid": "GFD365SJ1G4"
+            },
+            {
+              "type": "featuredimage",
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiB2E79LWVUoq4bDADmjZbQTQrfjuR2OKCsA&s",
+              "productid": "GFD365SJ1G4"
+            },
+            {
+              "type": "featuredimage",
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiB2E79LWVUoq4bDADmjZbQTQrfjuR2OKCsA&s",
+              "productid": "GFD365SJ1G4"
+            }
+          ]
+        },
+        "padding": {
+          "type": "ltrb",
+          "data": {
+            "l": "0",
+            "t": "20",
+            "r": "0",
+            "b": "20"
+          }
+        }
+      },
+      {
+        "type": "Text",
+        "data": "Text"
+      }
+    ]
+  }
+}
