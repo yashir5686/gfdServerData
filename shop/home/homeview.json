@@ -48,8 +48,18 @@
         }
       },
       {
-        "type": "Text",
-        "data": "Text"
+        "type": "sizedbox",
+        "width": "0",
+        "height": "20"
+      },
+      {
+        "type": "productsection",
+        "title": "Popular Products",
+        "tags": [
+          "popular",
+          "hot"
+        ],
+        "productids": []
       }
     ]
   }
