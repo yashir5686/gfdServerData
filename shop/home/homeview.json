@@ -19,8 +19,7 @@
         "type": "productsection",
         "title": "Popular Products",
         "tags": [
-          "popular",
-          "hot"
+          "all"
         ]
       }
     ]
