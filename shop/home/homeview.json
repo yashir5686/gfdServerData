@@ -14,13 +14,6 @@
         "type": "sizedbox",
         "width": "0",
         "height": "20"
-      },
-      {
-        "type": "productgrid",
-        "title": "All Products",
-        "tags": [
-          "all"
-        ]
       }
     ]
   }
