@@ -58,8 +58,14 @@
         "tags": [
           "popular",
           "hot"
-        ],
-        "productids": []
+        ]
+      },
+      {
+        "type": "productsection",
+        "title": "New Products",
+        "tags": [
+          "new"
+        ]
       }
     ]
   }
