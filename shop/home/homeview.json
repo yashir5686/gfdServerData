@@ -16,8 +16,8 @@
         "height": "20"
       },
       {
-        "type": "productsection",
-        "title": "Popular Products",
+        "type": "productgrid",
+        "title": "All Products",
         "tags": [
           "all"
         ]
