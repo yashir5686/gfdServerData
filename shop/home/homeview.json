@@ -16,8 +16,11 @@
         "height": "20"
       },
       {
+        "type": "Center",
+        "child": {
         "type": "Text",
         "data": "Products will be Added Soon.."
+      }
       }
     ]
   }
