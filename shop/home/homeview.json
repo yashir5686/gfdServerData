@@ -21,13 +21,6 @@
           "type": "CachedNetworkImage",
           "imageUrl": "https://img.freepik.com/free-vector/coming-soon-stay-tunes-background_1017-33734.jpg"
         }
-      },
-      {
-        "type": "Center",
-        "child": {
-          "type": "Text",
-          "data": "Products will be Added Soon.."
-        }
       }
     ]
   }
