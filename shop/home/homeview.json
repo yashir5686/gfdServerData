@@ -26,13 +26,6 @@
           "tags": [
             "all"
           ]
-        },
-        {
-          "type": "productsection",
-          "title": "New Products",
-          "tags": [
-            "new"
-          ]
         }
       ]
     }
