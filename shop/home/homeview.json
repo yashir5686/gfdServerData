@@ -16,11 +16,8 @@
         "height": "20"
       },
       {
-        "type": "productgrid",
-        "title": "All Products",
-        "tags": [
-          "all"
-        ]
+        "type": "Text",
+        "data": "Products will be Added Soon.."
       }
     ]
   }
