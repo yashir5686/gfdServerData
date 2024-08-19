@@ -1,5 +1,5 @@
 {
-  "type": "Sacffold",
+  "type": "Scaffold",
   "appbar": {
     "type": "shopappbar"
   },
@@ -25,6 +25,13 @@
           "title": "All Products",
           "tags": [
             "all"
+          ]
+        },
+        {
+          "type": "productsection",
+          "title": "New Products",
+          "tags": [
+            "new"
           ]
         }
       ]
